@@ -1,1 +1,92 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_184","dbfId":54259,"name":"코볼트 사막강습병","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>죽음의 메아리:</b><br></br>적 영웅에게<br></br>피해를 3 줍니다.","attack":2,"health":1,"durability":0,"armor":0,"flavor":"잠시 내 양초 좀 불어보게나.","spellSchool":"","portrait":"HS17-061.psd:02ce96cec05a496fb34cbb67d9e35871","set":"ULDUM","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":201,"name":"진영","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":251,"name":"게임 태그 251","value":6},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":[],"race":"","classes":[],"art":"art/ULD_184.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-061.psd:02ce96cec05a496fb34cbb67d9e35871","goldenMaterial":"ULD_184_PremiumCard.mat:5857a2db853b0524980cb0c0de5f92a7","goldenAnimation":"ULD_184_PremiumCard.asset:6e44208db04d3a7499c0e3967bec990c"}}
+{
+  "2019-08-07": {
+    "id": "ULD_184",
+    "dbfId": 54259,
+    "name": "코볼트 사막강습병",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>죽음의 메아리:</b><br></br>적 영웅에게<br></br>피해를 3 줍니다.",
+    "attack": 2,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "잠시 내 양초 좀 불어보게나.",
+    "spellSchool": "",
+    "portrait": "HS17-061.psd:02ce96cec05a496fb34cbb67d9e35871",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 251,
+        "name": "게임 태그 251",
+        "value": 6
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_184.png"
+  }
+}

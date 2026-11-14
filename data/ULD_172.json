@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_172","dbfId":53985,"name":"멀록 역병","type":"SPELL","cardClass":"SHAMAN","rarity":"EPIC","collectible":true,"cost":3,"text":"<b>모든</b> 하수인을 무작위 멀록으로 변신시킵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"정말 깜찍하면서도 끔찍하군요!","spellSchool":"","portrait":"HS17-018.psd:a0cf1aedfba044fcb00d0fd2a4a1adf8","set":"ULDUM","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":8},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/ULD_172.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-018.psd:a0cf1aedfba044fcb00d0fd2a4a1adf8","goldenMaterial":"ULD_172_PremiumCard.mat:dbecc0f6c4603c74facd0430901c75e2","goldenAnimation":"ULD_172_PremiumCard.asset:bd7ecd70ae974524b8a5811dafbf4456"}}
+{
+  "2019-08-07": {
+    "id": "ULD_172",
+    "dbfId": 53985,
+    "name": "멀록 역병",
+    "type": "SPELL",
+    "cardClass": "SHAMAN",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>모든</b> 하수인을 무작위 멀록으로 변신시킵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "정말 깜찍하면서도 끔찍하군요!",
+    "spellSchool": "",
+    "portrait": "HS17-018.psd:a0cf1aedfba044fcb00d0fd2a4a1adf8",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 8
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_172.png"
+  }
+}

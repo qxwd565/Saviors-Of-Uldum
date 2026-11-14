@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_726","dbfId":54772,"name":"고대의 비밀","type":"SPELL","cardClass":"MAGE","rarity":"COMMON","collectible":true,"cost":2,"text":"내 덱에서 <b>비밀</b>을 뽑습니다. 그 비밀의 비용이 (0)이 됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"상상도 못한 비밀 ㄴㅇㄱ","spellSchool":"ARCANE","portrait":"HS17-044.psd:b03923a69e7a476a97fde5e940998ec4","set":"ULDUM","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":219,"name":"비밀","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":1}],"races":[],"race":"","classes":[],"art":"art/ULD_726.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-044.psd:b03923a69e7a476a97fde5e940998ec4","goldenMaterial":"ULD_726_PremiumCard.mat:1c13f1064f978444a827554dfc13d9cc","goldenAnimation":"ULD_726_PremiumCard.asset:2f6ab0d033a8a184daba70ea5f5befec"}}
+{
+  "2019-08-07": {
+    "id": "ULD_726",
+    "dbfId": 54772,
+    "name": "고대의 비밀",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "내 덱에서 <b>비밀</b>을 뽑습니다. 그 비밀의 비용이 (0)이 됩니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "상상도 못한 비밀 ㄴㅇㄱ",
+    "spellSchool": "ARCANE",
+    "portrait": "HS17-044.psd:b03923a69e7a476a97fde5e940998ec4",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 219,
+        "name": "비밀",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_726.png"
+  }
+}

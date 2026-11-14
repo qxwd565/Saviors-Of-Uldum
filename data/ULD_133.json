@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_133","dbfId":53545,"name":"수정 상인","type":"MINION","cardClass":"DRUID","rarity":"EPIC","collectible":true,"cost":2,"text":"내 턴이 끝날 때 마나가 남아 있으면, 카드를 뽑습니다.","attack":1,"health":4,"durability":0,"armor":0,"flavor":"\"왜 딱코가 아니냐고 불편해하지 않을 테니 너도 이거 어디서 났냐고 묻지 마.\"","spellSchool":"","portrait":"HS17-002.psd:42f63c11836548b59bd47ab5788d5b02","set":"ULDUM","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":4533,"name":"제작 결과 능력","value":1},{"id":4577,"name":"게임 태그 4577","value":1}],"races":[],"race":"","classes":[],"art":"art/ULD_133.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-002.psd:42f63c11836548b59bd47ab5788d5b02","goldenMaterial":"ULD_133_PremiumCard.mat:4923ad4ddd95c8344bf25223a531d28a","goldenAnimation":"ULD_133_PremiumCard.asset:85bc6c7fd3885fc45b291329cb908419"}}
+{
+  "2019-08-07": {
+    "id": "ULD_133",
+    "dbfId": 53545,
+    "name": "수정 상인",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 2,
+    "text": "내 턴이 끝날 때 마나가 남아 있으면, 카드를 뽑습니다.",
+    "attack": 1,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"왜 딱코가 아니냐고 불편해하지 않을 테니 너도 이거 어디서 났냐고 묻지 마.\"",
+    "spellSchool": "",
+    "portrait": "HS17-002.psd:42f63c11836548b59bd47ab5788d5b02",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 4533,
+        "name": "제작 결과 능력",
+        "value": 1
+      },
+      {
+        "id": 4577,
+        "name": "게임 태그 4577",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_133.png"
+  }
+}

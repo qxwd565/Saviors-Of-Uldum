@@ -1,1 +1,41 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_292a","dbfId":54581,"name":"집중","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":5,"text":"+2/+2를 얻습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS17-109.psd:88ade7c5f075443fa9ebac61ef27585c","set":"ULDUM","nativeTags":[{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5}],"races":[],"race":"","classes":[],"art":"art/ULD_292a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-109.psd:88ade7c5f075443fa9ebac61ef27585c","goldenMaterial":"ULD_292a_PremiumCard.mat:9f96b45a57a8cd747836000c55fe1e94","goldenAnimation":"ULD_292a_PremiumCard.asset:fcce45531b7052a408daf29faedb920e"}}
+{
+  "2019-08-07": {
+    "id": "ULD_292a",
+    "dbfId": 54581,
+    "name": "집중",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 5,
+    "text": "+2/+2를 얻습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS17-109.psd:88ade7c5f075443fa9ebac61ef27585c",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_292a.png"
+  }
+}

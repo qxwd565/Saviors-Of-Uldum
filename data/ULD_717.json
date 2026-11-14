@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_717","dbfId":54429,"name":"화염의 역병","type":"SPELL","cardClass":"WARLOCK","rarity":"RARE","collectible":true,"cost":1,"text":"<b>모든</b> 아군 하수인을 처치합니다. 처치한만큼 무작위 적 하수인을 처치합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"이런 게 등가교환이라는 거예요!\"","spellSchool":"FIRE","portrait":"HS17-157.psd:9a3f1cb7b340421897262eb97dc7e959","set":"ULDUM","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":2}],"races":[],"race":"","classes":[],"art":"art/ULD_717.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-157.psd:9a3f1cb7b340421897262eb97dc7e959","goldenMaterial":"ULD_717_PremiumCard.mat:60bd3a5795b7e044ab38912bf777bd35","goldenAnimation":"ULD_717_PremiumCard.asset:92cf938160f3d614682f1b8f0ae87872"}}
+{
+  "2019-08-07": {
+    "id": "ULD_717",
+    "dbfId": 54429,
+    "name": "화염의 역병",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>모든</b> 아군 하수인을 처치합니다. 처치한만큼 무작위 적 하수인을 처치합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"이런 게 등가교환이라는 거예요!\"",
+    "spellSchool": "FIRE",
+    "portrait": "HS17-157.psd:9a3f1cb7b340421897262eb97dc7e959",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_717.png"
+  }
+}

@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_238","dbfId":53778,"name":"유물학자 리노","type":"MINION","cardClass":"MAGE","rarity":"LEGENDARY","collectible":true,"cost":6,"text":"<b>전투의 함성:</b><br></br>내 덱에 똑같은 카드가 없으면, 모든 적 하수인에게 10의 피해를 무작위로 나누어 입힙니다.","attack":4,"health":6,"durability":0,"armor":0,"flavor":"\"으아아! 뭐야, 이거 어떻게 되는 거야! 미안해요! ...그런데, 재밌는데?!\"","spellSchool":"","portrait":"HS17-081.psd:d5f6b785cbc94c37aaeea7b319ac49a5","set":"ULDUM","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0}],"races":[],"race":"","classes":[],"art":"art/ULD_238.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-081.psd:d5f6b785cbc94c37aaeea7b319ac49a5","goldenMaterial":"ULD_238_PremiumCard_NEW.mat:74be6cd3c81ed934f82ef56ce22bfb71","goldenAnimation":"ULD_238_PremiumCard_NEW.asset:136d700768dc18c478d90dfd25407bd2"}}
+{
+  "2019-08-07": {
+    "id": "ULD_238",
+    "dbfId": 53778,
+    "name": "유물학자 리노",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>전투의 함성:</b><br></br>내 덱에 똑같은 카드가 없으면, 모든 적 하수인에게 10의 피해를 무작위로 나누어 입힙니다.",
+    "attack": 4,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"으아아! 뭐야, 이거 어떻게 되는 거야! 미안해요! ...그런데, 재밌는데?!\"",
+    "spellSchool": "",
+    "portrait": "HS17-081.psd:d5f6b785cbc94c37aaeea7b319ac49a5",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_238.png"
+  }
+}

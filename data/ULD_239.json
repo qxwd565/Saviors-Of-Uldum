@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_239","dbfId":53823,"name":"화염 수호물","type":"SPELL","cardClass":"MAGE","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>비밀:</b> 하수인이<br></br>내 영웅을 공격한 후에,<br></br>모든 적 하수인에게<br></br>피해를 $3 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"수호물 터트리시는 분 벌금 받을게요.\"","spellSchool":"FIRE","portrait":"HS17-043.psd:576bc17b11f44b55a7d7aa787f9c5877","set":"ULDUM","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":4},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":219,"name":"비밀","value":1},{"id":251,"name":"게임 태그 251","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":1635,"name":"주문 속성","value":2}],"races":[],"race":"","classes":[],"art":"art/ULD_239.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-043.psd:576bc17b11f44b55a7d7aa787f9c5877","goldenMaterial":"ULD_239_PremiumCard.mat:627c9c49b168164458cc48e504c5b523","goldenAnimation":"ULD_239_PremiumCard.asset:2d2bcdb2939369a48ae69a0487b8aa34"}}
+{
+  "2019-08-07": {
+    "id": "ULD_239",
+    "dbfId": 53823,
+    "name": "화염 수호물",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>비밀:</b> 하수인이<br></br>내 영웅을 공격한 후에,<br></br>모든 적 하수인에게<br></br>피해를 $3 줍니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"수호물 터트리시는 분 벌금 받을게요.\"",
+    "spellSchool": "FIRE",
+    "portrait": "HS17-043.psd:576bc17b11f44b55a7d7aa787f9c5877",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 219,
+        "name": "비밀",
+        "value": 1
+      },
+      {
+        "id": 251,
+        "name": "게임 태그 251",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_239.png"
+  }
+}

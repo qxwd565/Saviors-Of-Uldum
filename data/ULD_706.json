@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_706","dbfId":54296,"name":"조잡한 허수아비","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":6,"text":"<b>죽음의 메아리:</b><br></br>각 플레이어가 손에서<br></br>비용이 가장 낮은<br></br>하수인을 소환합니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"\"하! 나, 토그왜글이 너 속였다!\"","spellSchool":"","portrait":"HS17-181.psd:8292bad6a52e4d11935ac7e1e4966364","set":"ULDUM","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/ULD_706.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-181.psd:8292bad6a52e4d11935ac7e1e4966364","goldenMaterial":"ULD_706_PremiumCard.mat:b7751779e83499846a903d2c435ca5df","goldenAnimation":"ULD_706_PremiumCard.asset:24bc2b4ae34f51f46967e79b6af718cb"}}
+{
+  "2019-08-07": {
+    "id": "ULD_706",
+    "dbfId": 54296,
+    "name": "조잡한 허수아비",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>죽음의 메아리:</b><br></br>각 플레이어가 손에서<br></br>비용이 가장 낮은<br></br>하수인을 소환합니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"하! 나, 토그왜글이 너 속였다!\"",
+    "spellSchool": "",
+    "portrait": "HS17-181.psd:8292bad6a52e4d11935ac7e1e4966364",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_706.png"
+  }
+}

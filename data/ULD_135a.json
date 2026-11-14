@@ -1,1 +1,61 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_135a","dbfId":53578,"name":"고대정령과 친분 쌓기","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":6,"text":"<b>도발</b> 능력이 있는<br></br>6/6 고대정령을 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"NATURE","portrait":"HS17-101.psd:532cc799f5234cae95a15c52a582bb82","set":"ULDUM","nativeTags":[{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":0},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":321,"name":"수집 가능","value":0},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/ULD_135a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-101.psd:532cc799f5234cae95a15c52a582bb82","goldenMaterial":"ULD_135a_PremiumCard.mat:2224e02e26c2d8d42afa2692696d9b18","goldenAnimation":"ULD_135a_PremiumCard.asset:3c9491f4211a2d142aa5e427deec6334"}}
+{
+  "2019-08-07": {
+    "id": "ULD_135a",
+    "dbfId": 53578,
+    "name": "고대정령과 친분 쌓기",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 6,
+    "text": "<b>도발</b> 능력이 있는<br></br>6/6 고대정령을 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "NATURE",
+    "portrait": "HS17-101.psd:532cc799f5234cae95a15c52a582bb82",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 0
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_135a.png"
+  }
+}

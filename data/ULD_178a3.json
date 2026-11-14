@@ -1,1 +1,71 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_178a3","dbfId":54151,"name":"시아마트의 심장","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"시아마트에게 <b>도발</b>을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS17-501B.psd:6d8015adeec347bca3073c4e538531af","set":"ULDUM","nativeTags":[{"id":45,"name":"생명력","value":0},{"id":47,"name":"공격력","value":0},{"id":48,"name":"마나 비용","value":0},{"id":114,"name":"전설 속성","value":0},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":5},{"id":321,"name":"수집 가능","value":0},{"id":402,"name":"능력치 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/ULD_178a3.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-501B.psd:6d8015adeec347bca3073c4e538531af","goldenMaterial":"ULD_178a3_PremiumCard.mat:e2329f858ffc4a145b0a37206375cb18","goldenAnimation":"ULD_178a3_PremiumCard.asset:fad508885249ca543b930ec1375c2ab4"}}
+{
+  "2019-08-07": {
+    "id": "ULD_178a3",
+    "dbfId": 54151,
+    "name": "시아마트의 심장",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "시아마트에게 <b>도발</b>을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS17-501B.psd:6d8015adeec347bca3073c4e538531af",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 0
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 0
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 0
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 0
+      },
+      {
+        "id": 402,
+        "name": "능력치 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_178a3.png"
+  }
+}

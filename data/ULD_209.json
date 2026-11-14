@@ -1,1 +1,92 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_209","dbfId":53413,"name":"불페라 건달","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":3,"text":"<b>전투의 함성:</b> 주문을 <b>발견</b>하거나 무작위 주문을 내 손으로 가져옵니다.","attack":2,"health":3,"durability":0,"armor":0,"flavor":"뭘 좋아하실지 몰라서 둘 다 준비했습니다.","spellSchool":"","portrait":"HS17-180.psd:12971a37f937446cb4e1cff415e490ea","set":"ULDUM","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":415,"name":"발견","value":1},{"id":1342,"name":"발견 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/ULD_209.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-180.psd:12971a37f937446cb4e1cff415e490ea","goldenMaterial":"ULD_209_PremiumCard.mat:27dcd011bca46944aa2afb341ec29850","goldenAnimation":"ULD_209_PremiumCard.asset:2d6bea55eb64e68499c4b5e6cf087a08"}}
+{
+  "2019-08-07": {
+    "id": "ULD_209",
+    "dbfId": 53413,
+    "name": "불페라 건달",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b> 주문을 <b>발견</b>하거나 무작위 주문을 내 손으로 가져옵니다.",
+    "attack": 2,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "뭘 좋아하실지 몰라서 둘 다 준비했습니다.",
+    "spellSchool": "",
+    "portrait": "HS17-180.psd:12971a37f937446cb4e1cff415e490ea",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 415,
+        "name": "발견",
+        "value": 1
+      },
+      {
+        "id": 1342,
+        "name": "발견 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_209.png"
+  }
+}

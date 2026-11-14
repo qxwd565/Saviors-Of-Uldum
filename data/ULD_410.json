@@ -1,1 +1,74 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_410","dbfId":53609,"name":"진홍빛 그물거미","type":"MINION","cardClass":"HUNTER","rarity":"EPIC","collectible":true,"cost":6,"text":"<b>전투의 함성:</b> 내 손에 있는 무작위 야수의 비용이 (5) 감소합니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"참 착하지 않나요? 거미가 탐험가를 위해 침낭을 만들어줬네요!","spellSchool":"","portrait":"HS17-023.psd:cb24bd17aff34909898db3a85573beaf","set":"ULDUM","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":6},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/ULD_410.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-023.psd:cb24bd17aff34909898db3a85573beaf","goldenMaterial":"ULD_410_PremiumCard.mat:66b77ce908c8ec64c8198ce623685e57","goldenAnimation":"ULD_410_PremiumCard.asset:edec87324ec04b645b66b6b54bd71f6b"}}
+{
+  "2019-08-07": {
+    "id": "ULD_410",
+    "dbfId": 53609,
+    "name": "진홍빛 그물거미",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 6,
+    "text": "<b>전투의 함성:</b> 내 손에 있는 무작위 야수의 비용이 (5) 감소합니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "참 착하지 않나요? 거미가 탐험가를 위해 침낭을 만들어줬네요!",
+    "spellSchool": "",
+    "portrait": "HS17-023.psd:cb24bd17aff34909898db3a85573beaf",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/ULD_410.png"
+  }
+}

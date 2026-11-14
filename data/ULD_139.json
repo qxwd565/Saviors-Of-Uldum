@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_139","dbfId":53620,"name":"탐구자 엘리스","type":"MINION","cardClass":"DRUID","rarity":"LEGENDARY","collectible":true,"cost":5,"text":"<b>전투의 함성:</b> 내 덱에<br></br>똑같은 카드가 없으면,<br></br>내 손을 복사합니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"지도제작자에서 어엿한 모험가가 된 엘리스는 남들이 걷지 않은 길을 걸었습니다. 지도에 표시되지 않았거든요.","spellSchool":"","portrait":"HS17-005.psd:c6a702dacda949859c6d77e32a1de0fa","set":"ULDUM","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/ULD_139.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-005.psd:c6a702dacda949859c6d77e32a1de0fa","goldenMaterial":"ULD_139_PremiumCard.mat:fb0a907b362034a499ec4703b9861207","goldenAnimation":"ULD_139_PremiumCard.asset:b7630cf68453b2b489e44211759a8926"}}
+{
+  "2019-08-07": {
+    "id": "ULD_139",
+    "dbfId": 53620,
+    "name": "탐구자 엘리스",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>전투의 함성:</b> 내 덱에<br></br>똑같은 카드가 없으면,<br></br>내 손을 복사합니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "지도제작자에서 어엿한 모험가가 된 엘리스는 남들이 걷지 않은 길을 걸었습니다. 지도에 표시되지 않았거든요.",
+    "spellSchool": "",
+    "portrait": "HS17-005.psd:c6a702dacda949859c6d77e32a1de0fa",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_139.png"
+  }
+}

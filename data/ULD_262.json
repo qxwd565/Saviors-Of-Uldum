@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_262","dbfId":53929,"name":"대사제 아메트","type":"MINION","cardClass":"PRIEST","rarity":"LEGENDARY","collectible":true,"cost":4,"text":"내가 하수인을 소환할<br></br>때마다 그 하수인의<br></br>생명력을 이 하수인과<br></br>동일하게 바꿉니다.","attack":2,"health":7,"durability":0,"armor":0,"flavor":"복사만 하세요, 복사만 하세요!","spellSchool":"","portrait":"HS17-117.psd:bf29de4fcddc4345938bb95f7f190582","set":"ULDUM","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/ULD_262.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-117.psd:bf29de4fcddc4345938bb95f7f190582","goldenMaterial":"ULD_262_PremiumCard.mat:09c08bba8bb00124a9eeffd86018b9fd","goldenAnimation":"ULD_262_PremiumCard.asset:d270c76f45a6a4e47b9f2ce2c1c50f73"}}
+{
+  "2019-08-07": {
+    "id": "ULD_262",
+    "dbfId": 53929,
+    "name": "대사제 아메트",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 4,
+    "text": "내가 하수인을 소환할<br></br>때마다 그 하수인의<br></br>생명력을 이 하수인과<br></br>동일하게 바꿉니다.",
+    "attack": 2,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "복사만 하세요, 복사만 하세요!",
+    "spellSchool": "",
+    "portrait": "HS17-117.psd:bf29de4fcddc4345938bb95f7f190582",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_262.png"
+  }
+}

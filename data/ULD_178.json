@@ -1,1 +1,99 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_178","dbfId":54148,"name":"시아마트","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":7,"text":"<b>전투의 함성:</b> <b>속공</b>, <b>도발</b>, <b>천상의 보호막</b>, <b>질풍</b> 중 2가지 능력을 얻습니다. <i>(선택 가능)</i>","attack":7,"health":7,"durability":0,"armor":0,"flavor":"질풍을 두 번 선택하면 왜 광풍이 되지 않죠?","spellSchool":"","portrait":"HS17-078.tif:684b012c2f2a4e46bb757dab16000450","set":"ULDUM","nativeTags":[{"id":45,"name":"생명력","value":7},{"id":47,"name":"공격력","value":7},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":1},{"id":189,"name":"질풍","value":1},{"id":190,"name":"도발","value":1},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":18},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1}],"races":["ELEMENTAL"],"race":"정령","classes":[],"art":"art/ULD_178.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-078.tif:684b012c2f2a4e46bb757dab16000450","goldenMaterial":"ULD_178_PremiumCard.mat:28cf2442be07f7f40969e8ff0a22ed70","goldenAnimation":"ULD_178_PremiumCard.asset:5152f394889639542af3ab10cadb3fab"}}
+{
+  "2019-08-07": {
+    "id": "ULD_178",
+    "dbfId": 54148,
+    "name": "시아마트",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>전투의 함성:</b> <b>속공</b>, <b>도발</b>, <b>천상의 보호막</b>, <b>질풍</b> 중 2가지 능력을 얻습니다. <i>(선택 가능)</i>",
+    "attack": 7,
+    "health": 7,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "질풍을 두 번 선택하면 왜 광풍이 되지 않죠?",
+    "spellSchool": "",
+    "portrait": "HS17-078.tif:684b012c2f2a4e46bb757dab16000450",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 7
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 7
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 189,
+        "name": "질풍",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 18
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "ELEMENTAL"
+    ],
+    "race": "정령",
+    "classes": [],
+    "art": "art/ULD_178.png"
+  }
+}

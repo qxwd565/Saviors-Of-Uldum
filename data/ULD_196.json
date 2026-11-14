@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_196","dbfId":54276,"name":"네페르세트 의식술사","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":2,"text":"<b>전투의 함성:</b> 양옆의 하수인들의 생명력을 모두 회복시킵니다.","attack":2,"health":3,"durability":0,"armor":0,"flavor":"옆에만 있어도 힐링된다는 게 이런 거군요.","spellSchool":"","portrait":"HS17-073.psd:2bb422422f834132b284d282fa267638","set":"ULDUM","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1576,"name":"게임 태그 1576","value":1}],"races":[],"race":"","classes":[],"art":"art/ULD_196.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-073.psd:2bb422422f834132b284d282fa267638","goldenMaterial":"ULD_196_PremiumCard.mat:449ee977117e63f44af8297372104301","goldenAnimation":"ULD_196_PremiumCard.asset:c6bb2d07e2061a540a0877879d6df56a"}}
+{
+  "2019-08-07": {
+    "id": "ULD_196",
+    "dbfId": 54276,
+    "name": "네페르세트 의식술사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>전투의 함성:</b> 양옆의 하수인들의 생명력을 모두 회복시킵니다.",
+    "attack": 2,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "옆에만 있어도 힐링된다는 게 이런 거군요.",
+    "spellSchool": "",
+    "portrait": "HS17-073.psd:2bb422422f834132b284d282fa267638",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1576,
+        "name": "게임 태그 1576",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_196.png"
+  }
+}

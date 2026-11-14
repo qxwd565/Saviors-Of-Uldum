@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_324","dbfId":53938,"name":"임프말이","type":"SPELL","cardClass":"WARLOCK","rarity":"RARE","collectible":true,"cost":4,"text":"하수인을 처치합니다.<br></br>내 덱에 쓸모없는 임프를 셋 섞어 넣습니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"돌돌 말아서 임프들이 흠씬 두들겨 팹니다.","spellSchool":"FEL","portrait":"HS17-156.psd:99ad488dfa5244168a06b15199d7ff97","set":"ULDUM","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":56265},{"id":1635,"name":"주문 속성","value":7}],"races":[],"race":"","classes":[],"art":"art/ULD_324.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-156.psd:99ad488dfa5244168a06b15199d7ff97","goldenMaterial":"ULD_324_PremiumCard.mat:f2791d13957caeb4da81be25b15b7751","goldenAnimation":"ULD_324_PremiumCard.asset:5a64f4e8cb793ef4c887532c0aad4b48"}}
+{
+  "2019-08-07": {
+    "id": "ULD_324",
+    "dbfId": 53938,
+    "name": "임프말이",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "하수인을 처치합니다.<br></br>내 덱에 쓸모없는 임프를 셋 섞어 넣습니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "돌돌 말아서 임프들이 흠씬 두들겨 팹니다.",
+    "spellSchool": "FEL",
+    "portrait": "HS17-156.psd:99ad488dfa5244168a06b15199d7ff97",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 56265
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 7
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_324.png"
+  }
+}

@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_431p","dbfId":53908,"name":"황제의 붕대","type":"HERO_POWER","cardClass":"PALADIN","collectible":false,"cost":2,"text":"아군 하수인을 복사하여 2/2 하수인으로 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS17-138.psd:513a2002307e4c69ac518bd926792a7c","set":"ULDUM","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":10}],"races":[],"race":"","classes":[],"art":"art/ULD_431p.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-138.psd:513a2002307e4c69ac518bd926792a7c","goldenMaterial":"ULD_431p_PremiumCard.mat:c2409d6e8605da44f98d7e2efa399608","goldenAnimation":"ULD_431p_PremiumCard.asset:a1fa89deb08d9da479755a26df245832"}}
+{
+  "2019-08-07": {
+    "id": "ULD_431p",
+    "dbfId": 53908,
+    "name": "황제의 붕대",
+    "type": "HERO_POWER",
+    "cardClass": "PALADIN",
+    "collectible": false,
+    "cost": 2,
+    "text": "아군 하수인을 복사하여 2/2 하수인으로 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS17-138.psd:513a2002307e4c69ac518bd926792a7c",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 10
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_431p.png"
+  }
+}

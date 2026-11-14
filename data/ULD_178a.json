@@ -1,1 +1,71 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_178a","dbfId":54149,"name":"시아마트의 바람","type":"SPELL","cardClass":"NEUTRAL","collectible":false,"cost":0,"text":"시아마트에게 <b>질풍</b>을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS17-501D.psd:65a1d94f789698a46917753de474a869","set":"ULDUM","nativeTags":[{"id":48,"name":"마나 비용","value":0},{"id":114,"name":"전설 속성","value":0},{"id":189,"name":"질풍","value":1},{"id":199,"name":"직업","value":12},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":402,"name":"능력치 숨김","value":1}],"races":[],"race":"","classes":[],"art":"art/ULD_178a.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-501D.psd:65a1d94f789698a46917753de474a869","goldenMaterial":"ULD_178a_PremiumCard.mat:6901282da54f1a44ab99c2bfb100be34","goldenAnimation":"ULD_178a_PremiumCard.asset:9fd79e1a513f9b94e90dc32eb1361ead"}}
+{
+  "2019-08-07": {
+    "id": "ULD_178a",
+    "dbfId": 54149,
+    "name": "시아마트의 바람",
+    "type": "SPELL",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 0,
+    "text": "시아마트에게 <b>질풍</b>을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS17-501D.psd:65a1d94f789698a46917753de474a869",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 0
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 189,
+        "name": "질풍",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 402,
+        "name": "능력치 숨김",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_178a.png"
+  }
+}

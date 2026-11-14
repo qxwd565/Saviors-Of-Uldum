@@ -1,1 +1,46 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_326p","dbfId":54312,"name":"고대의 검","type":"HERO_POWER","cardClass":"ROGUE","collectible":false,"cost":2,"text":"내 영웅이 공격할 때,<br></br><b>면역</b> 상태가 되는 3/2<br></br>도검을 장착합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS17-132.psd:6a4530f2798ab6e44aacd2c7f40653bb","set":"ULDUM","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":10},{"id":240,"name":"면역","value":1}],"races":[],"race":"","classes":[],"art":"art/ULD_326p.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-132.psd:6a4530f2798ab6e44aacd2c7f40653bb","goldenMaterial":"ULD_326p_PremiumCard.mat:dae34227b88e0c74083f9acf9617370a","goldenAnimation":"ULD_326p_PremiumCard.asset:bad3d5c366520104e84b814087a8dc73"}}
+{
+  "2019-08-07": {
+    "id": "ULD_326p",
+    "dbfId": 54312,
+    "name": "고대의 검",
+    "type": "HERO_POWER",
+    "cardClass": "ROGUE",
+    "collectible": false,
+    "cost": 2,
+    "text": "내 영웅이 공격할 때,<br></br><b>면역</b> 상태가 되는 3/2<br></br>도검을 장착합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS17-132.psd:6a4530f2798ab6e44aacd2c7f40653bb",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 10
+      },
+      {
+        "id": 240,
+        "name": "면역",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_326p.png"
+  }
+}

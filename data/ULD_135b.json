@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_135b","dbfId":53579,"name":"물 마시기","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":6,"text":"생명력을 #12 회복시킵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"NATURE","portrait":"HS17-103.psd:ec24d09d73454e53b0e512e7227c0191","set":"ULDUM","nativeTags":[{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":321,"name":"수집 가능","value":0},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":[],"art":"art/ULD_135b.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-103.psd:ec24d09d73454e53b0e512e7227c0191","goldenMaterial":"ULD_135b_PremiumCard.mat:90b60697e8f9d3a46976298ea0d201d0","goldenAnimation":"ULD_135b_PremiumCard.asset:3617a23a8c806e94aae4d6823ef9128b"}}
+{
+  "2019-08-07": {
+    "id": "ULD_135b",
+    "dbfId": 53579,
+    "name": "물 마시기",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 6,
+    "text": "생명력을 #12 회복시킵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "NATURE",
+    "portrait": "HS17-103.psd:ec24d09d73454e53b0e512e7227c0191",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 0
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_135b.png"
+  }
+}

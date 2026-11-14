@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_282","dbfId":54013,"name":"단지 상인","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>죽음의 메아리:</b><br></br>비용이 1인 무작위 하수인을 내 손으로 가져옵니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"공 안에도 온갖 괴물들이 들어가는데 단지라고 안될 건 없죠.","spellSchool":"","portrait":"HS17-029.psd:810a466a511f4507a689898641438597","set":"ULDUM","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/ULD_282.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-029.psd:810a466a511f4507a689898641438597","goldenMaterial":"ULD_282_PremiumCard.mat:da70140c50f99d54b83cd6b11052b7ed","goldenAnimation":"ULD_282_PremiumCard.asset:ab3d4fbcb0bfbbb45a74f71df3a8fc8d"}}
+{
+  "2019-08-07": {
+    "id": "ULD_282",
+    "dbfId": 54013,
+    "name": "단지 상인",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>죽음의 메아리:</b><br></br>비용이 1인 무작위 하수인을 내 손으로 가져옵니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "공 안에도 온갖 괴물들이 들어가는데 단지라고 안될 건 없죠.",
+    "spellSchool": "",
+    "portrait": "HS17-029.psd:810a466a511f4507a689898641438597",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_282.png"
+  }
+}

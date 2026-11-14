@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_450","dbfId":54433,"name":"썩은마귀","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>생명력 흡수</b>","attack":2,"health":2,"durability":0,"armor":0,"flavor":"넌 썩었어...","spellSchool":"","portrait":"HS17-163.psd:e40e94d4fdf04260a447a25b6c88f766","set":"ULDUM","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":685,"name":"생명력 흡수","value":1}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/ULD_450.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-163.psd:e40e94d4fdf04260a447a25b6c88f766","goldenMaterial":"ULD_450_PremiumCard.mat:31cec63546e80af4e981109e1230b271","goldenAnimation":"ULD_450_PremiumCard.asset:c764a93605ae2c942abf044eb5ccee91"}}
+{
+  "2019-08-07": {
+    "id": "ULD_450",
+    "dbfId": 54433,
+    "name": "썩은마귀",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>생명력 흡수</b>",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "넌 썩었어...",
+    "spellSchool": "",
+    "portrait": "HS17-163.psd:e40e94d4fdf04260a447a25b6c88f766",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 685,
+        "name": "생명력 흡수",
+        "value": 1
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/ULD_450.png"
+  }
+}

@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_707","dbfId":54386,"name":"분노의 역병","type":"SPELL","cardClass":"WARRIOR","rarity":"RARE","collectible":true,"cost":5,"text":"피해를 받은 <b>모든</b> 하수인을 처치합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"줄여서 화병이라고 합니다.","spellSchool":"","portrait":"HS17-141.psd:d2cf7f0b831940029d5d6d39d4d17064","set":"ULDUM","nativeTags":[{"id":48,"name":"마나 비용","value":5},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":858,"name":"게임 태그 858","value":41425}],"races":[],"race":"","classes":[],"art":"art/ULD_707.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-141.psd:d2cf7f0b831940029d5d6d39d4d17064","goldenMaterial":"ULD_707_PremiumCard.mat:0f37e6f489aa59b4580687c8d1dd68f2","goldenAnimation":"ULD_707_PremiumCard.asset:d55724b56a409c0418dc62d0b175f033"}}
+{
+  "2019-08-07": {
+    "id": "ULD_707",
+    "dbfId": 54386,
+    "name": "분노의 역병",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 5,
+    "text": "피해를 받은 <b>모든</b> 하수인을 처치합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "줄여서 화병이라고 합니다.",
+    "spellSchool": "",
+    "portrait": "HS17-141.psd:d2cf7f0b831940029d5d6d39d4d17064",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 858,
+        "name": "게임 태그 858",
+        "value": 41425
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_707.png"
+  }
+}

@@ -1,1 +1,56 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_326t","dbfId":54318,"name":"신기루 검","type":"WEAPON","cardClass":"ROGUE","collectible":false,"cost":2,"text":"내 영웅이 공격할 때, <b>면역</b> 상태가 됩니다.","attack":3,"health":0,"durability":2,"armor":0,"flavor":"","spellSchool":"","portrait":"HS17-133.tif:f6c37a41cda541c28df7abff1ed7100f","set":"ULDUM","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":7},{"id":240,"name":"면역","value":1}],"races":[],"race":"","classes":[],"art":"art/ULD_326t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-133.tif:f6c37a41cda541c28df7abff1ed7100f","goldenMaterial":"ULD_326t_PremiumCard.mat:cf92057da0c51b842b311d90cae1d873","goldenAnimation":"ULD_326t_PremiumCard.asset:3c50faa791fd3e84e94b95ba9560aab0"}}
+{
+  "2019-08-07": {
+    "id": "ULD_326t",
+    "dbfId": 54318,
+    "name": "신기루 검",
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "collectible": false,
+    "cost": 2,
+    "text": "내 영웅이 공격할 때, <b>면역</b> 상태가 됩니다.",
+    "attack": 3,
+    "health": 0,
+    "durability": 2,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS17-133.tif:f6c37a41cda541c28df7abff1ed7100f",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 240,
+        "name": "면역",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_326t.png"
+  }
+}

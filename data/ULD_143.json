@@ -1,1 +1,87 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_143","dbfId":53827,"name":"파라오의 축복","type":"SPELL","cardClass":"PALADIN","rarity":"RARE","collectible":true,"cost":6,"text":"하수인에게 +4/+4와<br></br><b>천상의 보호막</b>과<br></br><b>도발</b>을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"파라오가 전생에 안녕로봇이었을 수도 있겠군요.","spellSchool":"HOLY","portrait":"HS17-038.psd:ff4caf55469d4d089aab1a21a6469d52","set":"ULDUM","nativeTags":[{"id":48,"name":"마나 비용","value":6},{"id":190,"name":"도발","value":1},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":5},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":251,"name":"게임 태그 251","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":1635,"name":"주문 속성","value":5}],"races":[],"race":"","classes":[],"art":"art/ULD_143.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-038.psd:ff4caf55469d4d089aab1a21a6469d52","goldenMaterial":"ULD_143_PremiumCard.mat:de03a8eb058ccbb44b136184e9198c89","goldenAnimation":"ULD_143_PremiumCard.asset:b791268f122007c48ab0dddd55cad457"}}
+{
+  "2019-08-07": {
+    "id": "ULD_143",
+    "dbfId": 53827,
+    "name": "파라오의 축복",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 6,
+    "text": "하수인에게 +4/+4와<br></br><b>천상의 보호막</b>과<br></br><b>도발</b>을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "파라오가 전생에 안녕로봇이었을 수도 있겠군요.",
+    "spellSchool": "HOLY",
+    "portrait": "HS17-038.psd:ff4caf55469d4d089aab1a21a6469d52",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 251,
+        "name": "게임 태그 251",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_143.png"
+  }
+}

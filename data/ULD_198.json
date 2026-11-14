@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_198","dbfId":54280,"name":"창조된 신기루","type":"MINION","cardClass":"NEUTRAL","rarity":"RARE","collectible":true,"cost":4,"text":"<b>도발</b>, 내 턴이 시작될 때,<br></br>이 하수인을 내 덱에<br></br>섞어 넣습니다.","attack":3,"health":10,"durability":0,"armor":0,"flavor":"안녕히 계세요, 여러분! 전 이 세상의 모든 버프와 디버프를 벗어던지고 제 행복을 찾아 떠납니다!","spellSchool":"","portrait":"HS17-171.psd:308a9998a0b14d67a6b9d964601fc81e","set":"ULDUM","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":10},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":0},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/ULD_198.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-171.psd:308a9998a0b14d67a6b9d964601fc81e","goldenMaterial":"ULD_198_PremiumCard.mat:a80790ecd55ad4540a1e9a06a01ae493","goldenAnimation":"ULD_198_PremiumCard.asset:acc42b6ca46c9ef40b7310e9b93f3f72"}}
+{
+  "2019-08-07": {
+    "id": "ULD_198",
+    "dbfId": 54280,
+    "name": "창조된 신기루",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>도발</b>, 내 턴이 시작될 때,<br></br>이 하수인을 내 덱에<br></br>섞어 넣습니다.",
+    "attack": 3,
+    "health": 10,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "안녕히 계세요, 여러분! 전 이 세상의 모든 버프와 디버프를 벗어던지고 제 행복을 찾아 떠납니다!",
+    "spellSchool": "",
+    "portrait": "HS17-171.psd:308a9998a0b14d67a6b9d964601fc81e",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 10
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_198.png"
+  }
+}

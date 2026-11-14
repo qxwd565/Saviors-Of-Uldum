@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_161","dbfId":53883,"name":"네페르세트 난동꾼","type":"MINION","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":3,"text":"이 하수인이 공격할 때마다 내 영웅에게 피해를 3 줍니다.","attack":4,"health":5,"durability":0,"armor":0,"flavor":"난동꾼 앞에서는 너도 한 방, 나도 한 방.","spellSchool":"","portrait":"HS17-154.psd:84fc092d49994568a59c0353d71d9fc3","set":"ULDUM","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/ULD_161.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-154.psd:84fc092d49994568a59c0353d71d9fc3","goldenMaterial":"ULD_161_PremiumCard.mat:2ee6d23418241cc4fbdf535ecbba2f18","goldenAnimation":"ULD_161_PremiumCard.asset:3d4ebe449b036964dabd2c8244042816"}}
+{
+  "2019-08-07": {
+    "id": "ULD_161",
+    "dbfId": 53883,
+    "name": "네페르세트 난동꾼",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "이 하수인이 공격할 때마다 내 영웅에게 피해를 3 줍니다.",
+    "attack": 4,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "난동꾼 앞에서는 너도 한 방, 나도 한 방.",
+    "spellSchool": "",
+    "portrait": "HS17-154.psd:84fc092d49994568a59c0353d71d9fc3",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_161.png"
+  }
+}

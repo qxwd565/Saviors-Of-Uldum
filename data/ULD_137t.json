@@ -1,1 +1,61 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_137t","dbfId":54541,"name":"나무정령","type":"MINION","cardClass":"DRUID","collectible":false,"cost":1,"text":"","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS17-107.psd:3f23ed289bff4f2abec573dddfc05e05","set":"ULDUM","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":4},{"id":2831,"name":"게임 태그 2831","value":1}],"races":[],"race":"","classes":[],"art":"art/ULD_137t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-107.psd:3f23ed289bff4f2abec573dddfc05e05","goldenMaterial":"ULD_137t_PremiumCard.mat:ae0c83ecdfd01104781b95e9d683778d","goldenAnimation":"ULD_137t_PremiumCard.asset:9889f030151e2aa44b6d7fd00f7d669d"}}
+{
+  "2019-08-07": {
+    "id": "ULD_137t",
+    "dbfId": 54541,
+    "name": "나무정령",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS17-107.psd:3f23ed289bff4f2abec573dddfc05e05",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 2831,
+        "name": "게임 태그 2831",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_137t.png"
+  }
+}

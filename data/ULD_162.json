@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_162","dbfId":53884,"name":"잔.악.무.도. 모집가","type":"MINION","cardClass":"WARLOCK","rarity":"COMMON","collectible":true,"cost":3,"text":"<b>전투의 함성:</b><br></br>아군 <b>졸개</b>를 처치하고<br></br>5/5 악마를 소환합니다.","attack":3,"health":3,"durability":0,"armor":0,"flavor":"졸개들은 처음부터 악한 게 아닌 거 같습니다. 그냥 길을 잘못 들었을 뿐이지요.","spellSchool":"","portrait":"HS17-048.psd:62940ac4ae0b401f934f435f6c2db208","set":"ULDUM","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":994,"name":"졸개","value":1},{"id":1359,"name":"게임 태그 1359","value":1}],"races":[],"race":"","classes":[],"art":"art/ULD_162.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-048.psd:62940ac4ae0b401f934f435f6c2db208","goldenMaterial":"ULD_162_PremiumCard.mat:2f66a28b318403a4c8e179013985d209","goldenAnimation":"ULD_162_PremiumCard.asset:c72e925ee0ea4624a8691889170294ec"}}
+{
+  "2019-08-07": {
+    "id": "ULD_162",
+    "dbfId": 53884,
+    "name": "잔.악.무.도. 모집가",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>전투의 함성:</b><br></br>아군 <b>졸개</b>를 처치하고<br></br>5/5 악마를 소환합니다.",
+    "attack": 3,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "졸개들은 처음부터 악한 게 아닌 거 같습니다. 그냥 길을 잘못 들었을 뿐이지요.",
+    "spellSchool": "",
+    "portrait": "HS17-048.psd:62940ac4ae0b401f934f435f6c2db208",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 994,
+        "name": "졸개",
+        "value": 1
+      },
+      {
+        "id": 1359,
+        "name": "게임 태그 1359",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_162.png"
+  }
+}

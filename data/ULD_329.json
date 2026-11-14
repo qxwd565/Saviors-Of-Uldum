@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_329","dbfId":54408,"name":"모래 조각사","type":"MINION","cardClass":"MAGE","rarity":"RARE","collectible":true,"cost":3,"text":"내가 주문을 시전한 후에, 무작위 마법사 하수인을 내 손으로 가져옵니다.","attack":3,"health":3,"durability":0,"armor":0,"flavor":"달빛으로도 조각할 수 있는데 모래로 못할 건 없죠.","spellSchool":"","portrait":"HS17-149.psd:0a68b19a757a413eaa153d09a4ac0e17","set":"ULDUM","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/ULD_329.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-149.psd:0a68b19a757a413eaa153d09a4ac0e17","goldenMaterial":"ULD_329_PremiumCard.mat:58550e26920dbd0498c6cba91afb2009","goldenAnimation":"ULD_329_PremiumCard.asset:cf864cb10dc9a8f4ca38a1c588862590"}}
+{
+  "2019-08-07": {
+    "id": "ULD_329",
+    "dbfId": 54408,
+    "name": "모래 조각사",
+    "type": "MINION",
+    "cardClass": "MAGE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "내가 주문을 시전한 후에, 무작위 마법사 하수인을 내 손으로 가져옵니다.",
+    "attack": 3,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "달빛으로도 조각할 수 있는데 모래로 못할 건 없죠.",
+    "spellSchool": "",
+    "portrait": "HS17-149.psd:0a68b19a757a413eaa153d09a4ac0e17",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_329.png"
+  }
+}

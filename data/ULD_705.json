@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"ULD_705","dbfId":54291,"name":"모구 이교도","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":true,"cost":1,"text":"<b>전투의 함성:</b> 내 전장이<br></br>모구 이교도로 가득 차면,<br></br>모두 처치하고 고위수호자<br></br>라를 소환합니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"신의 팔다리를 모으는 것보다는 쉽지 않을까요?","spellSchool":"","portrait":"HS17-178.psd:2072af5639e54448b9cf8caff33b1325","set":"ULDUM","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":54292}],"races":[],"race":"","classes":[],"art":"art/ULD_705.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS17-178.psd:2072af5639e54448b9cf8caff33b1325","goldenMaterial":"ULD_705_PremiumCard.mat:f058658020da9a6488b532f81d12583e","goldenAnimation":"ULD_705_PremiumCard.asset:c1b7b7705355c7740aaf341e80954845"}}
+{
+  "2019-08-07": {
+    "id": "ULD_705",
+    "dbfId": 54291,
+    "name": "모구 이교도",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b> 내 전장이<br></br>모구 이교도로 가득 차면,<br></br>모두 처치하고 고위수호자<br></br>라를 소환합니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "신의 팔다리를 모으는 것보다는 쉽지 않을까요?",
+    "spellSchool": "",
+    "portrait": "HS17-178.psd:2072af5639e54448b9cf8caff33b1325",
+    "set": "ULDUM",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 54292
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/ULD_705.png"
+  }
+}
