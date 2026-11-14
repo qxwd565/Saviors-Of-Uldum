@@ -10,47 +10,6 @@
     "text": "<b>도발</b>",
     "attack": 6,
     "health": 6,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS17-102.psd:6e9a4a39034845528095fdb164d8c312",
-    "set": "ULDUM",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 6
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/ULD_135at.png"
+    "classes": []
   }
 }

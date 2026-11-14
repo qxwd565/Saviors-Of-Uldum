@@ -8,39 +8,6 @@
     "collectible": false,
     "cost": 2,
     "text": "무작위 마법사 주문을<br></br>내 손으로 가져옵니다. 그 주문의 비용이 (2) 감소합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS17-153.psd:553bf72119f84c7fadbbe7d80518a805",
-    "set": "ULDUM",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 10
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/ULD_433p.png"
+    "classes": []
   }
 }

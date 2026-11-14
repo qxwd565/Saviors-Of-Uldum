@@ -1,0 +1,37 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ULD_292b",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-08-07",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-08-07": {
+        "flavor": "",
+        "portrait": "HS17-110.psd:fe9bcd170a6f4c5f98b1fa84c7728686",
+        "set": "ULDUM",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 5
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          }
+        ],
+        "art": "art/ULD_292b.png"
+      }
+    }
+  }
+}

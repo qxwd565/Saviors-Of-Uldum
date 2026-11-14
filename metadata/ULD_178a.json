@@ -1,0 +1,67 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ULD_178a",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-08-07",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-08-07": {
+        "flavor": "",
+        "portrait": "HS17-501D.psd:65a1d94f789698a46917753de474a869",
+        "set": "ULDUM",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 0
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 0
+          },
+          {
+            "id": 189,
+            "name": "질풍",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 201,
+            "name": "진영",
+            "value": 3
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 330,
+            "name": "효과 생성 시각 효과",
+            "value": 0
+          },
+          {
+            "id": 331,
+            "name": "효과 지속 시각 효과",
+            "value": 0
+          },
+          {
+            "id": 402,
+            "name": "능력치 숨김",
+            "value": 1
+          }
+        ],
+        "art": "art/ULD_178a.png"
+      }
+    }
+  }
+}

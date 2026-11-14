@@ -9,48 +9,7 @@
     "cost": 1,
     "text": "<b>독성</b>",
     "attack": 2,
-    "health": 0,
     "durability": 2,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS17-127.psd:ab468050db8641248ea43cd1ab174d1c",
-    "set": "ULDUM",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 7
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 7
-      },
-      {
-        "id": 363,
-        "name": "독성",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/ULD_715t.png"
+    "classes": []
   }
 }

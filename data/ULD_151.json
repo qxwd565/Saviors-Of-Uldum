@@ -11,62 +11,6 @@
     "text": "<b>전투의 함성:</b><br></br>내 손에 있는 무작위<br></br>야수를 복사합니다.",
     "attack": 4,
     "health": 3,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "어떤 카드가 명예의 전당으로 갈지 결정합니다.",
-    "spellSchool": "",
-    "portrait": "HS17-121.psd:7089bbab892347fc92eaaae07b154648",
-    "set": "ULDUM",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/ULD_151.png"
+    "classes": []
   }
 }

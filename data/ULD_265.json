@@ -9,64 +9,6 @@
     "collectible": true,
     "cost": 1,
     "text": "하수인에게 <b>환생</b>을 부여합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"내가 새로운 고양이를 데려왔어!\"",
-    "spellSchool": "",
-    "portrait": "HS17-006.psd:bbab796dace04c32a69c513270e542d5",
-    "set": "ULDUM",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 0
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 0
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1085,
-        "name": "환생",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/ULD_265.png"
+    "classes": []
   }
 }

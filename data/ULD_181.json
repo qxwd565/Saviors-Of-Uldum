@@ -9,54 +9,7 @@
     "collectible": true,
     "cost": 7,
     "text": "<b>모든</b> 하수인에게 피해를 $5 줍니다.<br></br>그 후에 <b>모든</b> 하수인에게 피해를 $2 줍니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "5252, 믿고 있었다고!",
     "spellSchool": "NATURE",
-    "portrait": "HS17-118.psd:29ee81ab9ca94625b60f1cb66a6b5110",
-    "set": "ULDUM",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 7
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/ULD_181.png"
+    "classes": []
   }
 }

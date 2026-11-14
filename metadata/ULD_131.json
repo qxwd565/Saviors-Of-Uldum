@@ -1,0 +1,77 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "ULD_131",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2019-08-07",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2019-08-07": {
+        "flavor": "다른 말로는 \"전략적인 게으름\"입니다.",
+        "portrait": "HS17-111.psd:695eea1b583b4d6fa95538f7887fb949",
+        "set": "ULDUM",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 2
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 462,
+            "name": "퀘스트",
+            "value": 1
+          },
+          {
+            "id": 535,
+            "name": "퀘스트 완료 조건",
+            "value": 4
+          },
+          {
+            "id": 676,
+            "name": "무작위 선택 제외",
+            "value": 1
+          },
+          {
+            "id": 839,
+            "name": "게임 태그 839",
+            "value": 1
+          },
+          {
+            "id": 1089,
+            "name": "퀘스트 보상 데이터베이스 ID",
+            "value": 53499
+          }
+        ],
+        "art": "art/ULD_131.png"
+      }
+    }
+  }
+}

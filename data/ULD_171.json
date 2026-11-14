@@ -9,44 +9,7 @@
     "collectible": true,
     "cost": 0,
     "text": "내 토템들에게 공격력을 +2 부여합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "다른 갈래의 주술이 아닙니다. 그냥 사악해 보이는 눈썹만 그려 넣은 것일 뿐이죠.",
     "spellSchool": "NATURE",
-    "portrait": "HS17-013.psd:ab2553f8ade2415683c0bcc1539bd145",
-    "set": "ULDUM",
-    "nativeTags": [
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 4
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/ULD_171.png"
+    "classes": []
   }
 }

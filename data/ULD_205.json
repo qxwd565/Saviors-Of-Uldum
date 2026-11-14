@@ -11,74 +11,10 @@
     "text": "<b>환생</b>",
     "attack": 3,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"너, 양초 못 깨운다!\"",
-    "spellSchool": "",
-    "portrait": "HS17-053.psd:88a8e03fcd3d42b0a789ee16a022eb94",
-    "set": "ULDUM",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 11
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1085,
-        "name": "환생",
-        "value": 1
-      },
-      {
-        "id": 1440,
-        "name": "선술집 단계",
-        "value": 2
-      }
-    ],
     "races": [
       "UNDEAD"
     ],
     "race": "언데드",
-    "classes": [],
-    "art": "art/ULD_205.png"
+    "classes": []
   }
 }

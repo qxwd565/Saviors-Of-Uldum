@@ -8,34 +8,6 @@
     "collectible": false,
     "cost": 5,
     "text": "이 하수인을 복사하여 소환합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS17-110.psd:fe9bcd170a6f4c5f98b1fa84c7728686",
-    "set": "ULDUM",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/ULD_292b.png"
+    "classes": []
   }
 }

@@ -11,74 +11,10 @@
     "text": "<b>도발</b>, <b>환생</b>, <b>죽음의 메아리:</b><br></br>내 영웅의 생명력을<br></br>#3 회복시킵니다.",
     "attack": 3,
     "health": 4,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "얼마나 많이 썩어 문드러졌으면...",
-    "spellSchool": "",
-    "portrait": "HS17-054.psd:603c8ae0c06c475084c7026663b855b1",
-    "set": "ULDUM",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 11
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 217,
-        "name": "죽음의 메아리",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1085,
-        "name": "환생",
-        "value": 1
-      }
-    ],
     "races": [
       "UNDEAD"
     ],
     "race": "언데드",
-    "classes": [],
-    "art": "art/ULD_208.png"
+    "classes": []
   }
 }

@@ -11,74 +11,10 @@
     "text": "<b>은신</b><br></br><b>환생</b>",
     "attack": 4,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "저렇게나 번쩍번쩍 빛나는데 은신할 수 있는 것도 재주네요.",
-    "spellSchool": "",
-    "portrait": "HS17-057.psd:c0f2c119390a493f9821ef058f0e5e11",
-    "set": "ULDUM",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 191,
-        "name": "은신",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 11
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1085,
-        "name": "환생",
-        "value": 1
-      }
-    ],
     "races": [
       "UNDEAD"
     ],
     "race": "언데드",
-    "classes": [],
-    "art": "art/ULD_274.png"
+    "classes": []
   }
 }

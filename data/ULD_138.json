@@ -11,57 +11,6 @@
     "text": "<b>도발</b>, 이번 턴에<br></br>비용이 (5) 이상인<br></br>주문을 시전했으면,<br></br>비용이 (0)이 됩니다.",
     "attack": 3,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "캔을 따는 소리를 들으면 잽싸게 달려옵니다.",
-    "spellSchool": "",
-    "portrait": "HS17-003.psd:bd9e91be1ff14d5787389dfa38d4592e",
-    "set": "ULDUM",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/ULD_138.png"
+    "classes": []
   }
 }

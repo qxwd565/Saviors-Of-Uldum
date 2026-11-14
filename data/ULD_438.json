@@ -11,74 +11,10 @@
     "text": "<b>죽음의 메아리:</b> 내 덱에서 생명력이 1인 하수인을 둘 뽑습니다.",
     "attack": 3,
     "health": 1,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "수많은 하이에나의 온기가 남아있습니다.",
-    "spellSchool": "",
-    "portrait": "HS17-037.psd:2924006a1773485eaf4277ca4e13bbb4",
-    "set": "ULDUM",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 1
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 20
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 217,
-        "name": "죽음의 메아리",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1584,
-        "name": "게임 태그 1584",
-        "value": 1
-      }
-    ],
     "races": [
       "BEAST"
     ],
     "race": "야수",
-    "classes": [],
-    "art": "art/ULD_438.png"
+    "classes": []
   }
 }

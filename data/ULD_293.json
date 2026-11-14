@@ -11,74 +11,10 @@
     "text": "<b>전투의 함성:</b><br></br>내 전장에 <b>비밀</b>이 있으면,<br></br>피해를 6 줍니다.",
     "attack": 4,
     "health": 4,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "내 비밀이 하늘에 닿아 울려 구름도 나를 듣기까지, 마음에 들 때까지.",
-    "spellSchool": "",
-    "portrait": "HS17-148.tif:f8efa801d20744d09faf5b55721a17ad",
-    "set": "ULDUM",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 18
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 219,
-        "name": "비밀",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
     "races": [
       "ELEMENTAL"
     ],
     "race": "정령",
-    "classes": [],
-    "art": "art/ULD_293.png"
+    "classes": []
   }
 }

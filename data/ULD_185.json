@@ -11,74 +11,10 @@
     "text": "<b>환생</b>, 피해를 받은 상태면 공격력을 +2 얻습니다.",
     "attack": 1,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "돌아왔습니다. 화가 났습니다. 그리고 담판을 지으러 왔습니다.",
-    "spellSchool": "",
-    "portrait": "HS17-161.psd:4a73a28b84e144b4392f76ba463c438f",
-    "set": "ULDUM",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 11
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 212,
-        "name": "격노",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1085,
-        "name": "환생",
-        "value": 1
-      }
-    ],
     "races": [
       "UNDEAD"
     ],
     "race": "언데드",
-    "classes": [],
-    "art": "art/ULD_185.png"
+    "classes": []
   }
 }

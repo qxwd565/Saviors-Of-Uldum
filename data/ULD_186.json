@@ -11,85 +11,11 @@
     "text": "<b>전투의 함성:</b><br></br>무작위 <b>환생</b> 하수인을<br></br>내 손으로 가져옵니다.",
     "attack": 1,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "쥐를 쫓는 자, 캣 타워 상층과 하층을 지배하는 자, 붉은 점의 추적자, 그리고 모든 상자를 순례하는 자입니다.",
-    "spellSchool": "",
-    "portrait": "HS17-062.psd:4b0d49316c9145438b6108ace2bfd91a",
-    "set": "ULDUM",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 7
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 20
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1085,
-        "name": "환생",
-        "value": 1
-      },
-      {
-        "id": 1584,
-        "name": "게임 태그 1584",
-        "value": 1
-      },
-      {
-        "id": 2534,
-        "name": "게임 태그 2534",
-        "value": 1
-      }
-    ],
     "races": [
       "UNDEAD",
       "BEAST"
     ],
     "race": "언데드, 야수",
-    "classes": [],
-    "art": "art/ULD_186.png"
+    "classes": []
   }
 }

@@ -9,49 +9,6 @@
     "collectible": true,
     "cost": 8,
     "text": "내 덱에서 멀록을 7마리 소환합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "물론 상대편 손에 불기둥이 없을 때의 얘기죠...",
-    "spellSchool": "",
-    "portrait": "HS17-136.psd:62c083ccd7e34f3b8fa34e41cb897fb3",
-    "set": "ULDUM",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 8
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/ULD_716.png"
+    "classes": []
   }
 }
